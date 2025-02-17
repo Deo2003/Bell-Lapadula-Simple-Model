@@ -7,6 +7,6 @@ Simple Security Property ("No Read Up" - NRU): A subject at a lower security lev
 *-Property ("No Write Down" - NWD): A subject at a higher security level cannot write data to a lower security level.
 This implementation includes:
 
-A Subject class (users/processes accessing data)
-An Object class (files/resources with security labels)
-An Access Control system that enforces Bell-LaPadula properties.
+A Subject class (users/processes accessing data) </br>
+An Object class (files/resources with security labels) </br>
+An Access Control system that enforces Bell-LaPadula properties. </br>
